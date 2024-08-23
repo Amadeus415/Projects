@@ -8,6 +8,7 @@ Below is a list of different projects I have compiled. Feel free to have a look!
 
 
 # Power BI Projects
+* Bike Sales Analysis (https://github.com/Amadeus415/Power-BI-Projects/tree/main/Bike_Share_Dash)
 * Sales Analysis (https://github.com/Amadeus415/sales-analysis-power-bi)
 
 # SQL Projects
