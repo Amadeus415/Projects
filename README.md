@@ -13,3 +13,7 @@ Below is a list of different projects I have compiled. Feel free to have a look!
 # SQL Projects
 
 # Excel Projects
+* Boeing Drone Financial Model (https://github.com/Amadeus415/Excel-Projects/tree/main/Boeing-Drone_FinancialModel)
+* Cost Benefit Analysis of Product Development Decisions (https://github.com/Amadeus415/Excel-Projects/tree/main/Cost_Benefit_Analysis)
+* Demand Forecasting Techniques (https://github.com/Amadeus415/Excel-Projects/tree/main/Demand_Forecasting)
+* Financial Model for VR Headset (https://github.com/Amadeus415/Excel-Projects/tree/main/financial_model)
