@@ -2,11 +2,15 @@
 
 Below is a list of different projects I have compiled. Feel free to have a look!
 
+# SQL
+* Giants Pitching Analysis (https://github.com/Amadeus415/SQL-projects/tree/main/Giants_Pitching_Analysis)
+
 # Python Projects
+* RealEstate Prices Linear Regression
 * Olympics Analysis (https://github.com/Amadeus415/Olympics-Analysis)
 * Pandas Tutorial (https://github.com/Amadeus415/pandas_tutorial/tree/main)
 
-# Power BI Projects
+# Visualization(PowerBI, Looker, Tableau)
 * Bike Sales Analysis (https://github.com/Amadeus415/Power-BI-Projects/tree/main/Bike_Share_Dash)
 * Sales Analysis (https://github.com/Amadeus415/sales-analysis-power-bi)
 
