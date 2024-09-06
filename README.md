@@ -12,6 +12,7 @@ Below is a list of different projects I have compiled. Feel free to have a look!
 * Pandas Tutorial (https://github.com/Amadeus415/pandas_tutorial/tree/main)
 
 # Visualization(PowerBI, Looker, Tableau)
+* Santa Cruz Real Estate (https://github.com/Amadeus415/Power-BI-Projects/blob/main/RealEstate_SantaCruz)
 * Bike Sales Analysis (https://github.com/Amadeus415/Power-BI-Projects/tree/main/Bike_Share_Dash)
 * Sales Analysis (https://github.com/Amadeus415/sales-analysis-power-bi)
 
