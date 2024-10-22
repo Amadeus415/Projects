@@ -9,6 +9,7 @@ Below is a list of different projects I have compiled. Feel free to have a look!
 * Giants Pitching Analysis (https://github.com/Amadeus415/SQL-projects/tree/main/Giants_Pitching_Analysis)
 
 # Python Projects
+* AirBnb Price Prediction Marin County (https://github.com/Amadeus415/airbnb-price-prediction?tab=readme-ov-file)
 * RealEstate Prices Linear Regression (https://github.com/Amadeus415/Realestate-Analysis)
 * Olympics Analysis (https://github.com/Amadeus415/Olympics-Analysis)
 * Pandas Tutorial (https://github.com/Amadeus415/pandas_tutorial/tree/main)
